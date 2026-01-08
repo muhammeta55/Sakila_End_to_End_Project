@@ -1,6 +1,8 @@
 # End-to-End Data Integration & Analytics Project
 
+## Project Architecture
 
+![Project Architecture](Architecture/Architecture_End_to_End_Data_Integration_Analytics_Project.png)
 
 This project demonstrates the full data lifecycle using the Sakila database across three platforms: MySQL, Snowflake, and MongoDB.
 
