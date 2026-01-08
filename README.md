@@ -1,4 +1,4 @@
-\# End-to-End Data Integration \& Analytics Project
+# End-to-End Data Integration & Analytics Project
 
 
 
@@ -6,67 +6,67 @@ This project demonstrates the full data lifecycle using the Sakila database acro
 
 
 
-\## Phases
+## Phases
 
 
 
-\### Phase 1 – MySQL
+### Phase 1 – MySQL
 
-\- Installed Sakila database
+- Installed Sakila database
 
-\- Explored tables \& relationships
+- Explored tables & relationships
 
-\- Created ERD
+- Created ERD
 
-\- Ran SQL queries
+- Ran SQL queries
 
-\- Exported CSVs
-
-
-
-\### Phase 2 – Snowflake
-
-\- Loaded CSVs into Snowflake
-
-\- Designed Star Schema
-
-\- Ran analytical queries (monthly revenue, top countries, trends)
+- Exported CSVs
 
 
 
-\### Phase 3 – MongoDB
+### Phase 2 – Snowflake
 
-\- Modeled JSON documents
+- Loaded CSVs into Snowflake
 
-\- Created indexes
+- Designed Star Schema
 
-\- Ran aggregation queries
-
-
-
-\## Deliverables
-
-\- ERD and Star Schema diagrams
-
-\- SQL and NoSQL scripts
-
-\- CSV and JSON files
-
-\- Screenshots of key steps
-
-\- Final reflection
+- Ran analytical queries (monthly revenue, top countries, trends)
 
 
 
-\## Learning Outcomes
+### Phase 3 – MongoDB
 
-\- Design relational \& NoSQL schemas
+- Modeled JSON documents
 
-\- Perform ETL workflows
+- Created indexes
 
-\- Execute analytical \& aggregation queries
+- Ran aggregation queries
 
-\- Understand OLTP, OLAP, and NoSQL architectures
+
+
+## Deliverables
+
+- ERD and Star Schema diagrams
+
+- SQL and NoSQL scripts
+
+- CSV and JSON files
+
+- Screenshots of key steps
+
+- Final reflection
+
+
+
+## Learning Outcomes
+
+- Design relational \& NoSQL schemas
+
+- Perform ETL workflows
+
+- Execute analytical \& aggregation queries
+
+- Understand OLTP, OLAP, and NoSQL architectures
 
 
 
